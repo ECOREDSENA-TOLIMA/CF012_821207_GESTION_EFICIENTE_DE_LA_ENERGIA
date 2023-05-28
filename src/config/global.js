@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Características de los sistemas de gestión de la energía',
+    descripcionCurso:
+      'La gestión de la energía es una de las herramientas impulsadas por los gobiernos y las organizaciones a nivel mundial para solucionar los desafíos que plantean la seguridad energética, el cambio climático y la competitividad. La sostenibilidad económica y ambiental de las empresas y organizaciones es uno de los beneficios de la implementación de los sistemas de gestión de la energía (SGEn).',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,27 +33,135 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Panorama de los sistemas de gestión y ciclo PHVA',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Generalidades de los sistemas de gestión',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'El ciclo PHVA',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Certificación',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Los paradigmas del modelo energético',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Panorama nacional',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Panorama desde las empresas y las organizaciones',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Sistemas de gestión de la energía (SGEn)',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo:
+          'Beneficios de la implementación de los sistemas de gestión de la energía',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Familia de normas asociadas a la gestión de la energía',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo:
+          'Estructura y terminología utilizada para los sistemas de gestión de la energía (SGEn)',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Desempeño energético',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Estructura de los SGEn de acuerdo con la normativa ',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo:
+              'Terminología utilizada para los sistemas de gestión de la energía (SGEn) ',
+            hash: 't_6_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo:
+          'Contexto de la organización en los sistemas de gestión de la energía',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Partes interesadas y requisitos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Necesidades y expectativas de las partes interesadas',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.2',
+            titulo: 'Requisitos legales y otros requisitos',
+            hash: 't_8_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema9',
+        numero: '9',
+        titulo: 'Alcance y límites del sistema de gestión de la energía',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema10',
+        numero: '10',
+        titulo: 'Liderazgo y compromiso',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema11',
+        numero: '11',
+        titulo: 'Política energética',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema12',
+        numero: '12',
+        titulo: 'Roles, responsabilidades y autoridades en la organización',
         desarrolloContenidos: true,
       },
     ],

@@ -4,15 +4,14 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
-      h1 Panorama de los sistemas de gestión y ciclo PHVA
-      
+        span 8
+      h1 Titulo de primer nivel
+
 </template>
 
 <script>
 export default {
-  name: 'Tema1',
-  components: {},
+  name: 'Tema8',
   data: () => ({
     // variables de vue
   }),
