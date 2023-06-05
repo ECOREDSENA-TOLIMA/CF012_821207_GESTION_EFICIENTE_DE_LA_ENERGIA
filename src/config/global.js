@@ -207,32 +207,84 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Sistema de gestión de eficiencia energética ',
+      referencia:
+        'Procem Consultores. <i>ISO 50001 - Sistema de gestión de eficiencia energética</i> [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=hmxEKsQg0OI',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'GTC',
+      significado: 'Sigla de Guía Técnica Colombiana',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'IDEn',
+      significado: 'Sigla del Indicador de Desempeño Energético',
+    },
+    {
+      termino: 'ISO',
+      significado: 'Sigla de Organización Internacional de Normalización',
+    },
+    {
+      termino: 'LBEn',
+      significado: 'Sigla de Línea de Base Energética',
+    },
+    {
+      termino: 'NTC',
+      significado: 'Sigla de Norma Técnica Colombiana',
+    },
+    {
+      termino: 'PHVA',
+      significado: 'Sigla de Planear, Hacer, Verificar, Actuar',
+    },
+    {
+      termino: 'SGEn',
+      significado: 'Sigla de Sistema de Gestión de la Energía',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Agencia de Sostenibilidad Energética. (2018). <i>Guía de implementación de sistemas de gestión de la energía basados en ISO 50001.</i> Cuarta edición. Agencia de Sostenibilidad Energética. ',
+      link:
+        'https://drive.google.com/file/d/1OBbFU1XgjCcUt4r8gt79EVubc-oLsHAY/view',
+    },
+    {
+      referencia:
+        'CONUEE. (2016). <i>Manual para la implementación de un sistema de gestión de la energía.</i> Segunda edición. CONUEE. ',
+      link:
+        'https://www.gob.mx/cms/uploads/attachment/file/119159/Manual_SGEn_Conuee_2da_Edicion.compressed.pdf',
+    },
+    {
+      referencia:
+        'Instituto Colombiano de Normas Técnicas y Certificación. (2019). <i>Norma técnica colombiana. Sistemas de gestión de la energía. Requisitos con orientación para su uso (NTC-ISO 50001:2019).</i> Instituto Colombiano de Normas Técnicas y Certificación. ',
       link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Minas y Energía. (2019). <i>Informe de impacto Programa EEI Colombia</i> Upme. ',
+      link:
+        'https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Impacto_proyecto_EEI.pdf',
+    },
+    {
+      referencia:
+        'Organización Internacional de Normalización-ISO. (2010). <i>Progresar rápidamente. Organismos Nacionales de Normalización en Países en Desarrollo.</i> ISO. ',
+      link:
+        'https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/fast_forward-es.pdf',
+    },
+    {
+      referencia:
+        'Red Colombiana de Conocimiento en Eficiencia Energética - RECIEE. (2019). <i>Implementación de un sistema de gestión de la energía - Guía con base en la Norma ISO 50001:2018.</i> Segunda versión. RECIEE. ',
+      link:
+        'https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf',
+    },
+    {
+      referencia:
+        'Unidad de Planeación Minero-Energética. (2020). <i>Plan Energético Nacional 2020-2050. </i> Upme.',
+      link:
+        'https://www1.upme.gov.co/DemandayEficiencia/Documents/PEN_2020_2050/Resumen_Ejecutivo_PEN_2020_2050.pdf',
     },
   ],
   creditos: [

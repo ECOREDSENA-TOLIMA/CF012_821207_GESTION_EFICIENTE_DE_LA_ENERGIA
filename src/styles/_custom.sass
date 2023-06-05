@@ -28,3 +28,139 @@
   .intro
     background-image: url('../assets/curso/portada/introduccion.png')
     background-repeat: no-repeat
+  .texto
+    p
+      color: $white
+@media screen and (max-width: 991px)
+  .introduccion
+    .texto
+      p
+       color: $black
+
+.tema1
+  .cajon
+    border-radius: 0px
+  .cajon.color-acento-botones:before
+    background-color: transparent
+  .cajon.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 20%)
+  .cajon.color-acento-contenido:before
+    background-color: transparent
+  span.color-acento-contenido, strong.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 20%)
+  p.cierre
+    position: absolute
+    text-align: right
+    right: 0px
+    font-weight: bold
+  .bloque-texto-b.color-acento-contenido.p-texto:before
+    left: 25%
+    margin-bottom: -23px
+    background-color: lighten($color-acento-contenido, 20%)
+  p.border-p
+    border-bottom: 1.5px solid $color-acento-botones
+  .bloque-texto-b i
+    color: $color-acento-botones
+  .bloque-texto-b i.a:last-of-type
+    vertical-align: text-bottom
+  .cuadro-1
+    background-color: #6E9AD4
+    padding-top: 2.5em !important
+    padding-bottom: 2.5em !important
+    border-radius: 1em
+  .cuadro-general
+    padding-left: 0.7em !important
+    padding-right: 0.7em !important
+    background-color: #B6CCEA
+  .td-uno-table
+    text-align: center
+    background-color: $color-acento-contenido
+  .td-dos-table
+    background-color: $white
+  .tabla-b
+    border-left: 2px solid $color-acento-botones
+    td
+      border: 1px solid #e8e8e8
+
+  .clr-paleYellow
+    background-color: #F9F7EC
+
+  .borde-tema1:before
+    content: ''
+    background-color: #FFFFFF
+    display: block
+    width: 15px
+    height: 25px
+    position: relative
+    left: -24px
+    border-top-right-radius: 25px
+    border-bottom-right-radius: 25px
+  .borde-tema1
+    height: 100%
+    background-color: #09346F !important
+    p
+      color: $white
+  .borde-tema1:hover
+    background-color: #D7E4F6 !important
+    p
+      color: $black
+
+  .numero-uno:after
+    content: '01'
+    position: relative
+    left: 83%
+    color: #9fc2f138
+    font-size: 40px
+    font-weight: bold
+
+  .numero-dos:after
+    content: '02'
+    position: relative
+    left: 83%
+    color: #9fc2f138
+    font-size: 40px
+    font-weight: bold
+    top: 16%
+    
+  .numero-tres:after
+    content: '03'
+    position: relative
+    left: 83%
+    color: #9fc2f138
+    font-size: 40px
+    font-weight: bold
+    top: 21%
+      
+  .numero-cuatro:after
+    content: '04'
+    position: relative
+    left: 83%
+    color: #9fc2f138
+    font-size: 40px
+    font-weight: bold
+    top: 16%
+
+  @media screen and (max-width: 991px)
+    .numero-dos:after
+      top: 1%
+    .numero-tres:after
+      top: 1%
+    .numero-cuatro:after
+      top: 1%
+
+.tema2
+  .cajon
+    border-radius: 0px
+  .cajon.color-acento-contenido:before
+    background-color: transparent
+  .cajon.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 20%)
+
+  ul.lista-tabla
+    li
+      margin-left: 18px
+      list-style: initial
+  .tarjeta.clr--gris
+    background-color: lighten($color-acento-botones, 40%)
+  .tabs-a__tab
+    background-color: lighten($color-acento-contenido, 20%)
