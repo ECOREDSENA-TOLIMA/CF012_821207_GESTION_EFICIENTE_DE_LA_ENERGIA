@@ -6,9 +6,10 @@
       .titulo-principal__numero
         span 2
       h1 Los paradigmas del modelo energético
+      
     .row.justify-content-center.align-items-center.mb-4.cajon.tarjeta.color-acento-contenido(data-aos="fade-left")
       .col-md-8.col-12(data-aos="fade-down")
-        p.m-4 La dependencia de las fuentes de energía para el desarrollo de todas las actividades humanas en el mundo moderno ha sido evidente a través de la historia, por ejemplo, la dependencia del petróleo ha provocado varias crisis mundiales como la ocurrida en los años 70 en donde se presentó su escasez y la de sus derivados (gasolina, diesel, crudo, etc.), debido a las decisiones políticas en las regiones de Oriente Medio donde están los grandes productores de este energético. 
+        p.m-4 La dependencia de las fuentes de energía para el desarrollo de todas las actividades humanas en el mundo moderno ha sido evidente a través de la historia, por ejemplo, la dependencia del petróleo ha provocado varias crisis mundiales como la ocurrida en los años 70 en donde se presentó su escasez y la de sus derivados (gasolina, #[i diesel], crudo, etc.), debido a las decisiones políticas en las regiones de Oriente Medio donde están los grandes productores de este energético. 
       .col-md-4.col-12(data-aos="fade-up")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema2/tema2-01.svg")
     

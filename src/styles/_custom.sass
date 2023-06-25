@@ -37,6 +37,11 @@
       p
        color: $black
 
+  
+span.color-acento-contenido, strong.color-acento-contenido
+  background-color: lighten($color-acento-contenido, 10%)
+  font-weight: bold
+
 .tema1
   .cajon
     border-radius: 0px
@@ -46,8 +51,6 @@
     background-color: lighten($color-acento-contenido, 20%)
   .cajon.color-acento-contenido:before
     background-color: transparent
-  span.color-acento-contenido, strong.color-acento-contenido
-    background-color: lighten($color-acento-contenido, 20%)
   p.cierre
     position: absolute
     text-align: right
@@ -164,3 +167,13 @@
     background-color: lighten($color-acento-botones, 40%)
   .tabs-a__tab
     background-color: lighten($color-acento-contenido, 20%)
+
+.tema6
+  .bloque-texto-c
+    i
+      color: $color-acento-botones
+  .bloque-texto-c.color-acento-contenido
+    background-color: lighten($color-acento-contenido, 20%)
+    :after
+  .bloque-texto-c:after
+    background-color: $color-acento-botones

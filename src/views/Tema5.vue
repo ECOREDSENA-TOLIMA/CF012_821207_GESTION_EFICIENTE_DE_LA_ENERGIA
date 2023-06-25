@@ -14,10 +14,10 @@
       .col-md-3.col-12(data-aos="fade-up")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema5/tema5-01.svg")
 
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-12.titulo-sexto.color-acento-contenido.mt-3
+    .row.justify-content-center.align-items-center.mb-4
+      .col-12.titulo-sexto.color-acento-contenido.mt-3(data-aos="fade-left")
           p.titulo.pb-0.mb-0 <b>Tabla 3.</b> <i>Normas para la implementación de los SGEn</i>
-      .col-12.px-0
+      .col-12.px-0(data-aos="fade-down")
         .tabla-a.color-acento-botones 
           table
             caption Normas para la implementación de los SGEn

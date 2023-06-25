@@ -20,7 +20,7 @@
           figure
             img(src='@/assets/curso/temas/tema4/tema4-01.png', alt='Seguridad energética')
         .col-md-8.col-12
-          ul.lista-ul.mb-4
+          ul.lista-ul.mb-0
             li
               i.fas.fa-angle-right
               | Identificar las diferentes fuentes y la cantidad de energía utilizadas por la organización para su actividad.
@@ -45,7 +45,7 @@
           figure
             img(src='@/assets/curso/temas/tema4/tema4-02.png', alt='Cambio climático')
         .col-md-8.col-12
-          ul.lista-ul.mb-4
+          ul.lista-ul.mb-2
             li
               i.fas.fa-angle-right
               | Reducir la huella de carbono de la organización, debido a la disminución en las emisiones de gases de efecto invernadero (GEI) originadas por el uso y el consumo de la energía.
@@ -64,7 +64,7 @@
           figure
             img(src='@/assets/curso/temas/tema4/tema4-03.png', alt='Competitividad')
         .col-md-8.col-12
-          ul.lista-ul.mb-4
+          ul.lista-ul.mb-2
             li
               i.fas.fa-angle-right
               | La metodología establecida se puede aplicar a empresas u organizaciones de cualquier tamaño, actividad, complejidad, ubicación geográfica, cultura organizacional, sin importar los tipos de productos o servicios que desarrolle.
@@ -96,7 +96,7 @@
               i.fas.fa-angle-right
               | Crear y hacer seguimiento a los indicadores que permitan evaluar el desempeño energético de la organización.
 
-    .row.justify-content-center.align-items-center(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mt-5(data-aos="fade-left")
       .col-md-8.col-12
         .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center

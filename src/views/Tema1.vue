@@ -59,7 +59,7 @@
 
     .row.justify-content-center.align-items-center.mt-4.mb-5(data-aos="fade-right")
       .col-lg-7.mb-5.mb-lg-0
-        p.border-p De acuerdo con la Organización Internacional de Normalización-ISO (2010) una #[span.color-acento-contenido norma] se define como
+        p.border-p De acuerdo con la Organización Internacional de Normalización-ISO (2010) una #[span.color-acento-contenido norma] se define como:
         .bloque-texto-b.color-acento-contenido.p-texto.p-0
           .bloque-texto-b__texto.cajon
             i.fas.fa-quote-left.a
@@ -160,17 +160,16 @@
     Separador
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.3 Certificación
-    .row(data-aos="fade-down")
+    .row.mb-4(data-aos="fade-down")
       .col-12
         p Es un procedimiento mediante el cual una entidad externa acreditada para tal fin le otorga a una organización un certificado:
     figure.mt-0.pt-0.mb-4(data-aos="fade-up")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
-    .row(data-aos="fade-right")
+    .row.mt-5.mb-4(data-aos="fade-right")
       .col-12
         p Teniendo en cuenta lo anterior, ¿cuáles son las ventajas de la certificación para los sistemas de gestión?     
-
 
     .row.justify-content-between
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
@@ -206,10 +205,10 @@
           p.text-small Le permite a la organización entrar a mercados donde el cumplimiento de la norma es un requisito de selección a nivel nacional e internacional.
           
 
-    .row.justify-content-center.align-items-center.mt-4.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-right")
       .col-12
         p A continuación se mencionan algunas Normas ISO y las certificaciones más comunes a las que puede optar una organización:
-      .col-10
+      .col-10.mt-4
         figure
           img(src='@/assets/curso/temas/tema1/tema1-15.svg', alt='')
 
