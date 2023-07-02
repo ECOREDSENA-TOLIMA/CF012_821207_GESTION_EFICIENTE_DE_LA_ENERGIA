@@ -13,10 +13,43 @@
       .col-md-4.col-12(data-aos="fade-up")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema2/tema2-01.svg")
     
-    figure.mt-0.pt-0.mb-4
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     
+    
+    .row.mt-5.justify-content-center.align-items-center
+      .col-md-6.col-12(data-aos="fade-down")
+        figure
+          img(src='@/assets/curso/temas/tema2/tema2-09.png', alt='Como consecuencia, las industrias tuvieron que parar')
+      .col-md-6.col-12(data-aos="fade-up")
+        p Como consecuencia, las industrias tuvieron que parar, se aumentó el desempleo, no había combustible para el transporte de carga y pasajeros, y los precios de los energéticos y de todos los productos de consumo subieron de forma alarmante.
+        p Colombia no ha sido ajena a las crisis energéticas; la más recordada sucedió en el año 1992 cuando las sequías provocadas por el fenómeno climático llamado “El niño” hizo que los embalses disminuyeran su nivel, de tal forma que las centrales hidroeléctricas no podían generar la electricidad que demandaba el país, y unido a una inadecuada gestión e infraestructura de las alternativas para la generación con otras fuentes de energía, provocaron que durante varias horas al día se suspenda el suministro de electricidad a todos los usuarios del país por orden del gobierno.
+
+      .col-12
+        p.mb-0 La anterior política se denominó “racionamiento” e impactó negativamente la economía del país y la calidad de vida de las personas. Dado este tipo de situaciones, los gobiernos han impulsado normas y programas estratégicos para la implementación de los sistemas de gestión de la energía y la eficiencia energética, con el fin de evitar que estos sucesos ocurran de nuevo, y mantener estable y competitiva la economía de la nación.
+        p Otro de los factores a tener en cuenta para el desarrollo de un país y del actual estilo de vida es el impacto ambiental del consumo de los energéticos en el aumento de la temperatura global del planeta y la salud de las personas. Es decir, se requiere un equilibrio de los siguientes elementos clave o paradigmas para el desarrollo energético y productivo de un país:
+
+    .row.mb-5.justify-content-center.align-items-center.mt-5(data-aos="fade-down")
+      .col-12.mb-5.mb-md-0
+        LineaTiempoD.color-primario
+          .row(numero="1" titulo="Seguridad energética")
+            .col-md-7.mb-4.mb-md-0
+              p Se refiere a asegurar que se tenga la disponibilidad en todo momento de los energéticos y la infraestructura necesaria para que sean suministrados con la calidad adecuada y a precios competitivos.
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema2/tema2-10.png', alt='')
+          .row(numero="2" titulo="Cambio climático")
+            .col-md-7.mb-4.mb-md-0
+              p Consiste en hacer uso de las fuentes de energía que generan menos gases de efecto invernadero (GEI). También incluye el seguimiento y la medición de las variables climáticas que pueden afectar al suministro de la cadena de los energéticos.
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema2/tema2-11.png', alt='')
+          .row(numero="3" titulo="Competitividad")
+            .col-md-7.mb-4.mb-md-0
+              p Se refiere a incentivar la eficiencia energética y las mejores técnicas disponibles como herramientas para la disminución de los costos de producción y operación para ser más competitivos, es decir, producir más productos con la misma cantidad de energía o producir la misma cantidad de productos con menos cantidad de energía.
+            .col-md-5
+              figure
+                img(src='@/assets/curso/temas/tema2/tema2-12.png', alt='')
+
+
     .row.mt-5.justify-content-center.align-items-center
       .col-md-6.col-12(data-aos="fade-down")
         figure
@@ -36,7 +69,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/tema2-03.png', alt='Panorama nacional')
 
-    .tarjeta.tarjeta--gris.p-4(data-aos="fade-left")
+    .tarjeta.tarjeta--azul.p-4.mt-5(data-aos="fade-left")
       PasosB.color-primario
         .row(titulo="Pilar 1")
           .col-md-6.mb-4.mb-md-0

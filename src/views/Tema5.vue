@@ -7,12 +7,12 @@
         span 5
       h1 Familia de normas asociadas a la gestión de la energía
 
-    .row.justify-content-center.align-items-center.mb-4.color-acento-contenido(data-aos="fade-left")
+    .row.justify-content-center.mb-4.color-acento-contenido(data-aos="fade-left")
       .col-md-9.col-12(data-aos="fade-down")
         p A causa de la expedición por parte de la Organización Internacional de Normalización (ISO) de la Norma ISO 50001 en su versión 2018, el Instituto Colombiano de Normas Técnicas y Acreditación (ICONTEC) adoptó la nueva versión y publicó la Norma Técnica Colombiana (NTC) ISO 50001 versión 2019. Actualmente esta es la norma adoptada en el país para la implementación de los SGEn.
-        p.text-small A su vez existe una familia de normas que complementan el ejercicio de la implementación de los SGEn, y son las siguientes:
+        p.mb0 A su vez existe una familia de normas que complementan el ejercicio de la implementación de los SGEn, y son las siguientes:
       .col-md-3.col-12(data-aos="fade-up")
-        img.mb-0.position-relative(src="@/assets/curso/temas/tema5/tema5-01.svg")
+        img.mt-3.mb-0.position-relative(src="@/assets/curso/temas/tema5/tema5-01.svg")
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.titulo-sexto.color-acento-contenido.mt-3(data-aos="fade-left")
@@ -20,7 +20,7 @@
       .col-12.px-0(data-aos="fade-down")
         .tabla-a.color-acento-botones 
           table
-            caption Normas para la implementación de los SGEn
+            //caption Normas para la implementación de los SGEn
             thead
               tr
                 th(style="width:175px") Norma

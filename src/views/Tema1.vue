@@ -7,7 +7,7 @@
         span 1
       h1 Panorama de los sistemas de gestión y ciclo PHVA
     .row.justify-content-center.align-items-center.mb-4.cajon.tarjeta.color-acento-botones(data-aos="fade-left")
-      .col-md-4.col-12(data-aos="fade-up")
+      .col-md-4.col-12(data-aos="zoom-out-down")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema1/tema1-01.svg")
       .col-md-8.col-12(data-aos="fade-down")
         p Para entender el significado de los sistemas de gestión es necesario conocer las bases de cada uno de los conceptos asociados a la gestión. En este capítulo se conocerán las generalidades de los sistemas de gestión, se hablará de la estructura básica de cualquier sistema de gestión denominada normalmente ciclo PHVA y finalmente, se descubrirá a qué se refiere cuando se habla de certificación en los sistemas de gestión.
@@ -36,14 +36,34 @@
           
         h2.text-center Gestión
         p Es una acción o conjunto de acciones que realiza un individuo o una organización para cumplir un objetivo.
-      p.mt-5 Como se puede observar, las anteriores definiciones tienen en común que están orientadas al cumplimiento de un objetivo. 
-    figure.mt-0.pt-0.mb-4
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     
+    p.mt-5.mb-5(data-aos="fade-down") Como se puede observar, las anteriores definiciones tienen en común que están orientadas al cumplimiento de un objetivo. 
+   
+    .h3.mb-5(data-aos="fade-down") Concepto de organización 
+    
+    TabsC.color-acento-botones.mb-5(data-aos="fade-down")
+      .py-3.py-md-4(titulo="Sistema de gestión")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h4 Sistema de gestión
+            p Es una herramienta compuesta de varias acciones ordenadas, que permite a todo tipo de organizaciones el cumplimiento a satisfacción de unos objetivos y metas definidos.
+            p A pesar de que la realidad de cada organización y cada país es diferente, muchos de los procesos y procedimientos para la gestión establecidos en las empresas públicas y privadas son similares.       
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-16.png', alt='')
+      .py-3.py-md-4(titulo="Objetivo del sistema de gestión")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Es decir, si se toma como ejemplo una empresa que produce vehículos en Colombia y una empresa dedicada a la misma actividad ubicada en España, posiblemente existan diferencias en la tecnología que usen para la fabricación de los autos, el número de autos producidos al mes, el número de empleados, el tamaño de las instalaciones físicas, etc.; sin embargo, tienen un objetivo en común: producir autos con la mayor calidad posible para satisfacer las necesidades de sus clientes.
+            p Es así como a nivel mundial a través de los años se han creado organismos en donde participan expertos de todos los países para establecer una serie de procedimientos ordenados, basados en metodologías comprobadas, que permiten garantizar el cumplimiento de los objetivos de las empresas pertenecientes a los diferentes sectores y actividades económicas.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-17.png', alt='')
+    
+
     .row.justify-content-center.align-items-center.mt-4.mb-4(data-aos="fade-left")
       .col-12.mt-4
-        p Como resultado de lo anterior se produce una serie de documentos llamados #[span.color-acento-contenido normas,] los cuales son emitidos por organismos de normalización reconocidos internacionalmente por la mayoría de los países.
+        p Como resultado de lo anterior se produce una serie de documentos llamados #[strong normas,] los cuales son emitidos por organismos de normalización reconocidos internacionalmente por la mayoría de los países.
         p A continuación, se describen dos de los organismos internacionales de normalización actualmente reconocidos:
 
     .row.justify-content-center.align-items-center.mt-4.mb-4
@@ -57,16 +77,16 @@
           figcaption Comisión Electrotécnica Internacional (IEC)
         
 
-    .row.justify-content-center.align-items-center.mt-4.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mt-5.mb-5(data-aos="fade-right")
       .col-lg-7.mb-5.mb-lg-0
-        p.border-p De acuerdo con la Organización Internacional de Normalización-ISO (2010) una #[span.color-acento-contenido norma] se define como:
+        p.border-p De acuerdo con la Organización Internacional de Normalización-ISO (2010) una #[strong norma] se define como:
         .bloque-texto-b.color-acento-contenido.p-texto.p-0
           .bloque-texto-b__texto.cajon
             i.fas.fa-quote-left.a
             p.mb-0 
-              span documento establecido por consenso y aprobado por un organismo reconocido, que ofrece reglas, lineamientos o características de uso común y repetido para actividades o sus resultados, y que pretenden lograr un grado óptimo de orden dentro de un contexto dado
-            p.mt-2.cierre - (p. 31).
-              i.fas.fa-quote-right.b
+              span documento establecido por consenso y aprobado por un organismo reconocido, que ofrece reglas, lineamientos o características de uso común y repetido para actividades o sus resultados, y que pretenden lograr un grado óptimo de orden dentro de un contexto dado.
+            //p.mt-2.cierre - (p. 31).
+            i.fas.fa-quote-right.b
 
       .col-lg-5
         figure
@@ -74,7 +94,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-left")
       .col-12
-        p No deje de revisar el botón #[strong.color-acento-contenido Recuerde y ¿Sabía qué?] para descubrir algo nuevo.
+        p No deje de revisar el botón #[strong Recuerde y ¿Sabía qué?] para descubrir algo nuevo.
 
     .row 
       .col-lg-4(data-aos="fade-right")
@@ -98,11 +118,11 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-md-10.col-12.titulo-sexto.color-acento-contenido.mt-3
-          p.titulo.pb-0.mb-0 <b>Tabla 1.</b> <i>Clasificación para los sistemas de gestión</i>
+        p.titulo.pb-0.mb-0 <b>Tabla 1.</b> <i>Clasificación para los sistemas de gestión</i>
       .col-md-10.col-12.px-0
         .tabla-b
           table
-            caption Clasificación para los sistemas de gestión
+            //caption Clasificación para los sistemas de gestión
             tbody
               tr
                 td.td-uno-table #[strong Sistema de gestión de calidad]
@@ -163,9 +183,54 @@
     .row.mb-4(data-aos="fade-down")
       .col-12
         p Es un procedimiento mediante el cual una entidad externa acreditada para tal fin le otorga a una organización un certificado:
-    figure.mt-0.pt-0.mb-4(data-aos="fade-up")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+    
+    .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-down")
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Certificación 
+            p La certificación de sistemas de gestión es una declaración por una tercera parte de que un sistema de gestión de una organización cumple con los requisitos establecidos en una norma de referencia. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-18.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Certificados más demandados y duración
+            p Los certificados de sistemas de gestión de calidad más demandados son: el certificado de calidad (norma ISO 9001), el certificado ambiental (norma ISO 14001). 
+            p La duración de un certificado de sistemas de gestión depende de la norma de referencia que se haya utilizado para la certificación.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-19.png', alt='')
+        .row.justify-content-center.align-items-center
+          .col-md-6.mb-4.mb-md-0
+            .h4 Beneficios certificación
+            p Algunos beneficios que brinda la certificación son: 
+            ul.lista-ul.mb-5
+              li.mb-0 
+                i.lista-ul__vineta
+                | Mejora el nivel de satisfacción de los clientes.
+              li.mb-0 
+                i.lista-ul__vineta
+                | Demuestra el compromiso de la empresa con la calidad. 
+              li.mb-0 
+                i.lista-ul__vineta
+                | Mejora la eficiencia general de la empresa.
+              li.mb-0 
+                i.lista-ul__vineta
+                | Permite disminuir los costos por la no calidad de los servicios ofrecidos. 
+              li.mb-0 
+                i.lista-ul__vineta
+                | Reduce la cantidad de reclamos o quejas por problemas en la prestación de servicios.
+              li.mb-0 
+                i.lista-ul__vineta
+                | Mejora el cumplimiento de los plazos de entrega.
+              li.mb-0
+                i.lista-ul__vineta
+                | Ayuda a mejorar el rendimiento de la organización y mitigar los riesgos.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema1/tema1-20.png', alt='')
+
 
     .row.mt-5.mb-4(data-aos="fade-right")
       .col-12
@@ -205,12 +270,17 @@
           p.text-small Le permite a la organización entrar a mercados donde el cumplimiento de la norma es un requisito de selección a nivel nacional e internacional.
           
 
-    .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mt-5.mb-5(data-aos="fade-right")
       .col-12
         p A continuación se mencionan algunas Normas ISO y las certificaciones más comunes a las que puede optar una organización:
-      .col-10.mt-4
-        figure
-          img(src='@/assets/curso/temas/tema1/tema1-15.svg', alt='')
+    
+    .tarjeta-numerada.color-acento-botones.mt-4(data-aos="fade-down")
+      .tarjeta-numerada__numero
+        .h4 Certificaciones más comunes
+      .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-right")
+        .col-10
+          figure
+            img(src='@/assets/curso/temas/tema1/tema1-15.svg', alt='')
 
 
 

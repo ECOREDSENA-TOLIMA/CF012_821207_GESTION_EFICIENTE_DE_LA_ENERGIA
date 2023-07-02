@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema7/tema7-01.png', alt='')
       .col-md-7.col-12(data-aos="fade-right")
-        p Reconocer el contexto de la organización es el primer paso para la implementación de los sistemas de gestión de la energía. Una vez se haga el reconocimiento del contexto de la organización a nivel general, se deben identificar los aspectos que afectan y son relevantes para el desempeño energético actual y también los aspectos que pueden afectar (#[span.color-acento-contenido de forma positiva o negativa]) la mejora del desempeño energético una vez sea implementado el sistema de gestión de la energía.
+        p Reconocer el contexto de la organización es el primer paso para la implementación de los sistemas de gestión de la energía. Una vez se haga el reconocimiento del contexto de la organización a nivel general, se deben identificar los aspectos que afectan y son relevantes para el desempeño energético actual y también los aspectos que pueden afectar (#[strong de forma positiva o negativa]) la mejora del desempeño energético una vez sea implementado el sistema de gestión de la energía.
         p De acuerdo con CONUEE (2016), para comprender el contexto de la organización es necesario identificar los diversos factores que la afectan frente a la implementación de un SGEn. A continuación, se plantean algunas preguntas clasificadas según el factor de impacto que sirven como guía para reconocer el contexto de la organización frente al SGEn: 
       
 

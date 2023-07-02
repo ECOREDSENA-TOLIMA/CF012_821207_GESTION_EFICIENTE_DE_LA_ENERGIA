@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    .row.justify-content-center.align-items-center.mb-4.intro(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-4.intro(data-aos="zoom-out-down")
       .col-lg-5.col-12
         img(src="@/assets/curso/temas/intro.svg", alt="alt")
       .col-lg-7.col-12.pt-4.pr-4.texto

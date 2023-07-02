@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-md-7.col-12(data-aos="fade-down")
-        p Como respuesta a las necesidades de los países y las organizaciones frente a los paradigmas del modelo energético a través de los años se ha trabajado en el desarrollo de los #[span.color-acento-contenido sistemas de gestión de la energía (SGEn)] como la herramienta principal que permite integrar y sistematizar todos los procesos que involucran los usos y consumos de la energía necesarios para el cumplimiento de la misión, la visión y los objetivos de las empresas y de las organizaciones, incluyendo la sostenibilidad ambiental de las operaciones.
+        p Como respuesta a las necesidades de los países y las organizaciones frente a los paradigmas del modelo energético a través de los años se ha trabajado en el desarrollo de los #[strong sistemas de gestión de la energía (SGEn)] como la herramienta principal que permite integrar y sistematizar todos los procesos que involucran los usos y consumos de la energía necesarios para el cumplimiento de la misión, la visión y los objetivos de las empresas y de las organizaciones, incluyendo la sostenibilidad ambiental de las operaciones.
         p Los sistemas de gestión de la energía (SGEn) están basados en el modelo del ciclo PHVA (planear-hacer-verificar-actuar), utilizando la experiencia obtenida con otros sistemas de gestión como, por ejemplo, el sistema de gestión de la calidad. Inicialmente los SGEn se implementaron en las empresas alrededor del mundo con el objetivo principal de ejecutar y documentar los proyectos de eficiencia energética y ahorro de energía, que permitan reducir los costos e incrementar su competitividad; sin embargo, a través de los años se ha demostrado el éxito de esta metodología no solo para este fin, sino para gestionar todos los procesos de las organizaciones relacionados con la energía como, por ejemplo, las políticas de la organización, la responsabilidad de la alta dirección, los procedimientos de compra de energéticos y equipos que usan energía, las comunicaciones, el desarrollo de competencias en los empleados, la mejora continua, por mencionar algunos. 
       .col-md-5.col-12(data-aos="fade-up")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema3/tema3-01.png")
@@ -18,7 +18,7 @@
       .col-md-5.col-12(data-aos="fade-up")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema3/tema3-02.png")
       .col-md-7.col-12(data-aos="fade-down")
-        p En resumen, un #[span.color-acento-contenido sistema de gestión de la energía (SGEn)] es una metodología establecida que permite a las empresas u organizaciones de cualquier tamaño o actividad sistematizar de manera continua las acciones orientadas a la eficiencia energética, el uso racional de la energía en las operaciones, las buenas prácticas de mantenimiento, la optimización de los costos energéticos, la confiabilidad en el suministro y la disminución de los impactos ambientales por el uso y el consumo de la energía.
+        p En resumen, un #[strong sistema de gestión de la energía (SGEn)] es una metodología establecida que permite a las empresas u organizaciones de cualquier tamaño o actividad sistematizar de manera continua las acciones orientadas a la eficiencia energética, el uso racional de la energía en las operaciones, las buenas prácticas de mantenimiento, la optimización de los costos energéticos, la confiabilidad en el suministro y la disminución de los impactos ambientales por el uso y el consumo de la energía.
         p La metodología más utilizada y reconocida mundialmente para los sistemas de gestión de la energía se denomina ISO 50001 Sistemas de gestión de la energía requisitos con orientación para su uso (actualmente versión 2018), elaborada por la Organización Internacional de Normalización (ISO). La primera versión de esta norma fue publicada en el año 2011. La norma ISO 50001 compila toda la experiencia internacional de las mejores prácticas para la implementación, la operación, el mantenimiento y la mejora continua de los SGEn.
 
     p.mb-5(data-aos="fade-down") En Colombia también se da la gestión de la energía desde los sistemas así:
@@ -73,16 +73,16 @@
           .col-md-6.col-12.mb-4.mb-md-0
             h4 De acuerdo con el Ministerio de Minas y Energía, ONUDI, GEF (2019), los objetivos principales del programa son:
             ul.lista-ul.mb-0
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | Impulsar el mercado de servicios y productos de eficiencia energética en la industria colombiana, a través del fortalecimiento de reglamentos y normas técnicas. 
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | La creación de capacidades para la implementación de sistemas de gestión de la energía.
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | Implementación de estrategias para la optimización de procesos y eficiencia energética.
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | El diseño de esquemas financieros para permitir la sostenibilidad de la implementación de medidas en el mediano y largo plazo.
           .col-md-6.col-lg-5.col-12
@@ -95,16 +95,16 @@
             p Colombia productiva es un patrimonio autónomo creado por el Ministerio de Comercio, Industria y Turismo en el año 2008, con el objetivo principal de promover la productividad y competitividad en la industria y dar cumplimiento a la Política de Desarrollo Productivo establecida en el CONPES 3866 de 2016 y la Política Nacional de Competitividad y Productividad establecida en el CONPES 3527 de 2008.
             p En el aspecto de productividad, el programa Colombia productiva ha desarrollado el proyecto denominado Fábricas de productividad, el cual tiene como uno de los ejes de acción la eficiencia energética como el factor que más impacta de manera positiva a las empresas con los siguientes beneficios:
             ul.lista-ul.mb-0
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | Ahorros económicos para los empresarios.
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | Aumento de la competitividad y productividad.
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | Reducción de emisiones de gases de efecto invernadero y gases contaminantes.
-              li
+              li.mb-0
                 i.fas.fa-angle-right
                 | Promoción de mercado ambiental y acceso a nuevos mercados.
           .col-md-5.col-12

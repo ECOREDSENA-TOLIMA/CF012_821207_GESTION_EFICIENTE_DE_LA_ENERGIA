@@ -63,16 +63,16 @@
           .col-md-6.mb-4.mb-md-0
             h4 Las funciones principales del equipo de gestión de la energía son:
             ul.lista-ul.mb-2
-              li
+              li.mb-0
                 i.fas.fa-angle-right 
                 | Asegurar que el SGEn se ha establecido, implementado, mantenido y que se garantice su mejora continua.
-              li
+              li.mb-0
                 i.fas.fa-angle-right 
                 | Garantizar que el SGEn cumpla con los requisitos de la norma de gestión de la energía.
-              li
+              li.mb-0
                 i.fas.fa-angle-right 
                 | Ejecutar los planes de acción que permitan la mejora continua del desempeño energético.
-              li
+              li.mb-0
                 i.fas.fa-angle-right 
                 | Informar a la alta dirección sobre el desempeño energético de la organización y el desempeño del SGEn.
               li

@@ -7,7 +7,7 @@
         span 6
       h1 Estructura y terminología utilizada para los sistemas de gestión de la energía (SGEn)
 
-    p(data-aos="fade-right") La referencia a nivel mundial para la implementación en sistemas de gestión de la energía (SGEn) es la Norma Internacional ISO 50001:2018. Para el caso colombiano la adaptación de la norma se denomina NTC ISO 50001:2019 y en esencia comparte todos los lineamientos de la norma internacional. Como la gestión de la energía hace parte del esquema de los sistemas de gestión definidos por la ISO, la metodología está basada en el Ciclo PHVA (#[span.color-acento-contenido planear, hacer, verificar y actuar]), con lo cual se garantiza la mejora continua y el mantenimiento del SGEn.
+    p(data-aos="fade-right") La referencia a nivel mundial para la implementación en sistemas de gestión de la energía (SGEn) es la Norma Internacional ISO 50001:2018. Para el caso colombiano la adaptación de la norma se denomina NTC ISO 50001:2019 y en esencia comparte todos los lineamientos de la norma internacional. Como la gestión de la energía hace parte del esquema de los sistemas de gestión definidos por la ISO, la metodología está basada en el Ciclo PHVA (#[strong planear, hacer, verificar y actuar]), con lo cual se garantiza la mejora continua y el mantenimiento del SGEn.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-md-6.col-12(data-aos="fade-right")
@@ -25,10 +25,37 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-12(data-aos="fade-up")
         p Antes de continuar con la estructura de los SGEn se requiere hacer énfasis en el concepto de desempeño energético:     
-        
-    figure.mt-4.pt-0.mb-4(data-aos="fade-down")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+    
+    p.mb-5(data-aos="fade-right") Cuando se habla de desempeño, por lo general se hace referencia a un resultado cuantificable (que se puede estimar o medir), obtenido como consecuencia de una labor o acción.
+    
+    .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="fade-down")
+      SlyderA(tipo="b")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Cuando se habla de desempeño, por lo general se hace referencia a un resultado cuantificable (que se puede estimar o medir), obtenido como consecuencia de una labor o acción. 
+            p Por ejemplo, si se quiere medir el desempeño académico de un estudiante en determinado tema, este resulta de determinar primero una puntuación o nota que depende de la forma en que el estudiante desarrolló una actividad o tarea asignada y posteriormente, compararla con un nivel deseado o máxima calificación.
+            p.mb-0 De esta forma, si un estudiante obtuvo una nota de 100 puntos en una actividad o tarea y si se compara con el máximo de calificación que en este caso también equivale a 100 puntos, se puede afirmar que el desempeño académico del estudiante es excelente o sobresaliente.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema6/tema6-06.png', alt='')
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Asimismo, el desempeño energético resulta de la medición o cálculo de las siguientes variables relacionadas con la energía:
+            ul.lista-ul.mb-4
+              li
+                i.lista-ul__vineta
+                strong Eficiencia energética. 
+              li
+                i.lista-ul__vineta
+                strong Uso de la energía.
+              li
+                i.lista-ul__vineta
+                strong Consumo de energía.
+            p El valor base para la comparación de los resultados y determinación del desempeño energético es establecido por la organización con base en sus necesidades y actividades.
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema6/tema6-07.png', alt='')
+    
 
     Separador
     #t_6_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -42,34 +69,34 @@
         .col-md-7.col-lg-8.col-12.mb-4.mb-md-0
           p Actividades para desarrollar de acuerdo con la norma
           ul.lista-ul.mb-2
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Comprender a la organización y su contexto.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Identificar las necesidades y expectativas de las partes interesadas.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Determinar el alcance del sistema de gestión de la energía para la organización.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Obtener el apoyo y el compromiso de la alta dirección para el SGEn.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Determinar la política energética de la organización.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Identificar los roles, las responsabilidades y las autoridades en la organización frente al SGEn.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Identificar los riesgos y las oportunidades que puedan afectar el desempeño energético de la organización.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Determinar los objetivos, las metas energéticas y la planificación para alcanzarlos.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Realizar la revisión energética (auditoría energética).
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Determinar los indicadores de desempeño energético (IDEn) y las líneas de base energética (LBEn).
         .col-md-5.col-lg-4.col-12
@@ -80,22 +107,22 @@
         .col-md-7.col-lg-8.col-12.mb-4.mb-md-0
           p Actividades para desarrollar de acuerdo con la norma
           ul.lista-ul.mb-2
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Asegurar que el personal que trabaja para el SGEn tenga la competencia requerida.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Elaborar un plan de comunicación y sensibilización.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Establecer y diligenciar la documentación requerida para la operación del SGEn.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Implementar controles operacionales y de mantenimiento para la mejora del desempeño energético.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Incorporar los criterios de desempeño energético para la implementación del proyecto y las compras de equipos que consumen energía.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Identificar las oportunidades de mejora en la compra de los energéticos.
         .col-md-5.col-lg-4.col-12
@@ -106,16 +133,16 @@
         .col-md-7.col-lg-8.col-12.mb-4.mb-md-0
           p Actividades para desarrollar de acuerdo con la norma
           ul.lista-ul.mb-2
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Realizar seguimiento, medición, análisis y evaluación del desempeño energético y del sistema de gestión de la energía.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Evaluar el cumplimiento de los requisitos legales y de otros requisitos.
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Realizar las auditorías internas (no son las mismas auditorías energéticas).
-            li
+            li.mb-0
               i.fas.fa-angle-right 
               | Realizar la revisión del SGEn por parte de la alta dirección
         .col-md-5.col-lg-4.col-12
@@ -171,19 +198,19 @@
               tr
                 td.text-center Alta dirección
                 td 
-                  p.mb-0 Persona o grupo de personas que dirige y controla una organización al más alto nivel.
-                  p.mb-0 La alta dirección tiene el poder para delegar autoridad y proporcionar los recursos dentro de la organización.
-                  p.mb-0 Si el alcance del sistema de gestión comprende solo una parte de la organización, entonces, la alta dirección se refiere a quienes dirigen y controlan esa parte de la organización.
+                  p Persona o grupo de personas que dirige y controla una organización al más alto nivel.
+                  p La alta dirección tiene el poder para delegar autoridad y proporcionar los recursos dentro de la organización.
+                  p Si el alcance del sistema de gestión comprende solo una parte de la organización, entonces, la alta dirección se refiere a quienes dirigen y controlan esa parte de la organización.
                   p La alta dirección controla la organización como se define en el alcance del SGEn y en los límites del sistema de gestión de la energía.
               tr
                 td.text-center Límite
                 td
-                  p.mb-0 Límites físicos u organizacionales, por ejemplo, un proceso, un grupo de procesos, un sitio, múltiples sitios bajo el control de una organización o la organización completa.
+                  p Límites físicos u organizacionales, por ejemplo, un proceso, un grupo de procesos, un sitio, múltiples sitios bajo el control de una organización o la organización completa.
                   p La organización establece los límites de su SGEn.
               tr
                 td.text-center Organización
                 td
-                  p.mb-0 Persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
+                  p Persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y relaciones para lograr sus objetivos.
                   p El concepto de organización incluye, entre otros, al trabajador independiente, la compañía, la corporación, la firma, la empresa, la autoridad, la sociedad, la organización benéfica o la institución, o parte o combinación de estos, se encuentren constituidas o no, públicas o privadas.
               tr
                 td.text-center Parte interesada
@@ -213,7 +240,7 @@
               tr
                 td.text-center Equipo de gestión de la energía
                 td 
-                  p.mb-0 Personas con responsabilidades y autoridad para la implementación eficaz de un sistema de gestión de la energía y para realizar las mejoras en el desempeño energético.
+                  p Personas con responsabilidades y autoridad para la implementación eficaz de un sistema de gestión de la energía y para realizar las mejoras en el desempeño energético.
                   p El tamaño y la naturaleza de una organización y los recursos disponibles se toman en cuenta al determinar el tamaño del equipo de gestión de la energía. Una sola persona puede desempeñar el rol de un equipo.
               tr
                 td.text-center Política
@@ -226,9 +253,9 @@
               tr
                 td.text-center Sistema de gestión
                 td 
-                  p.mb-0 Conjunto de elementos de una organización interrelacionados o que interactúan para establecer las políticas, los objetivos y los procesos para lograr estos objetivos.
-                  p.mb-0 Un sistema de gestión puede abordar una o varias disciplinas.
-                  p.mb-0 Los elementos del sistema incluyen la estructura de la organización, los roles y las responsabilidades, la planificación y la operación.
+                  p Conjunto de elementos de una organización interrelacionados o que interactúan para establecer las políticas, los objetivos y los procesos para lograr estos objetivos.
+                  p Un sistema de gestión puede abordar una o varias disciplinas.
+                  p Los elementos del sistema incluyen la estructura de la organización, los roles y las responsabilidades, la planificación y la operación.
                   p En algunos sistemas de gestión, el alcance de un sistema de gestión puede incluir la totalidad de la organización, las funciones específicas identificadas de la organización, las secciones específicas identificadas de la organización, o una o más funciones a través de un grupo de organizaciones. El alcance de un SGEn incluye todos los tipos de energía dentro de sus límites.
               tr
                 td.text-center Sistema de gestión de la energía, SGEn
@@ -274,12 +301,12 @@
               tr
                 td.text-center Información documentada
                 td 
-                  p.mb-0 Información que una organización tiene de controlar y mantener, y el medio que la contiene.
+                  p Información que una organización tiene de controlar y mantener, y el medio que la contiene.
                   p La información documentada puede estar en cualquier formato o medio, y puede provenir de cualquier fuente.
               tr
                 td.text-center Proceso
                 td 
-                  p.mb-0 Conjunto de actividades interrelacionadas o que interactúan, que transforma las entradas en salidas.
+                  p Conjunto de actividades interrelacionadas o que interactúan, que transforma las entradas en salidas.
                   p El proceso relacionado con las actividades de una organización puede ser:
                   ul.lista-ul.mb-4
                     li
@@ -291,7 +318,7 @@
               tr
                 td.text-center Seguimiento
                 td 
-                  p.mb-0 Determinación del estado de un sistema, un proceso o una actividad.
+                  p Determinación del estado de un sistema, un proceso o una actividad.
                   p En un sistema de gestión de la energía el seguimiento puede ser una revisión de los datos de la energía.
               tr
                 td.text-center Auditoría
@@ -334,7 +361,7 @@
               tr
                 td.text-center Desempeño energético
                 td 
-                  p.mb-0 Resultados medibles relacionados con la eficiencia energética, el uso de la energía y el consumo de energía.
+                  p Resultados medibles relacionados con la eficiencia energética, el uso de la energía y el consumo de energía.
                   p El desempeño energético se puede medir con respecto a los objetivos de la organización, las metas energéticas y otros requisitos del desempeño energético.
               tr
                 td.text-center Indicador de desempeño energético, IDEn.
@@ -367,7 +394,7 @@
               tr
                 td.text-center Riesgo
                 td 
-                  p.mb-0 Efecto de la incertidumbre.
+                  p Efecto de la incertidumbre.
                   p Un efecto es una desviación de lo esperado - positivo o negativo.
               tr
                 td.text-center Competencia
@@ -376,7 +403,7 @@
               tr
                 td.text-center Objetivo
                 td 
-                  p.mb-0 Resultado a alcanzar.
+                  p Resultado a alcanzar.
                   p El objetivo se puede expresar de otras formas, por ejemplo, como el resultado deseado, un propósito, un criterio operacional, como un objetivo energético o mediante el uso de otras palabras con significado similar (por ejemplo, propósito, fin).
               tr
                 td.text-center Eficacia
@@ -422,12 +449,12 @@
               tr
                 td.text-center Eficiencia energética
                 td 
-                  p.mb-0 Proporción u otra relación cuantitativa entre un resultado de desempeño, servicio, productos, materias primas, o de energía y una entrada de energía.
+                  p Proporción u otra relación cuantitativa entre un resultado de desempeño, servicio, productos, materias primas, o de energía y una entrada de energía.
                   p Eficiencia de conversión; energía requerida/energía consumida.
               tr
                 td.text-center Uso de la energía
                 td 
-                  p.mb-0 Aplicación de la energía.
+                  p Aplicación de la energía.
                   p Ejemplo: ventilación; iluminación; calefacción; enfriamiento; transporte; almacenamiento de datos; proceso de producción.
               tr
                 td.text-center Revisión energética
