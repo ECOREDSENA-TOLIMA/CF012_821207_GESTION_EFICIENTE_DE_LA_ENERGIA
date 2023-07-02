@@ -68,7 +68,7 @@
       .row(titulo="Situación 2")
         .col-md-7.col-lg-8.col-12.mb-4.mb-md-0
           p.mb-0 La empresa está convencida de los beneficios de la implementación de un SGEn, pero decide iniciar solo con la sede 2 de Bucaramanga, ya que es la que reporta los mayores costos energéticos del total de las sedes. Además, decide no involucrar el proceso de transporte porque piensa vender la flota de camiones y tercerizar este servicio.
-          p.mb-0 Alcance: eectricidad y gas natural para los procesos de producción.
+          p.mb-0 Alcance: ectricidad y gas natural para los procesos de producción.
           p Límite: sede 2.
           p.mb-0 En esta situación el alcance del SGEn quedaría definido de la siguiente forma:
           p El alcance del SGEn aplica para las actividades, los procesos de producción y los usos energéticos de electricidad y generación de vapor que se realizan en la sede No. 2, ubicada en la ciudad de Bucaramanga.
