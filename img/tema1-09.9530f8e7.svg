@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="819" height="610.004" viewBox="0 0 819 610.004">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_296483" data-name="Rectángulo 296483" width="122.523" height="84.983" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_946483" data-name="Grupo 946483" transform="translate(-390 -4482)">
+    <g id="Grupo_946482" data-name="Grupo 946482" transform="translate(-3 -1082.408)">
+      <g id="Grupo_877272" data-name="Grupo 877272" transform="translate(495.982 5564.409)" opacity="0.534">
+        <path id="Trazado_263272" data-name="Trazado 263272" d="M0,110.836C0,269.655,128.749,398.4,287.568,398.4V110.836Z" transform="translate(0 211.599)" fill="#dbe6f5"/>
+        <path id="Trazado_263273" data-name="Trazado 263273" d="M287.568,0C128.749,0,0,128.749,0,287.568H287.568Z" fill="#f3edff"/>
+        <path id="Trazado_263274" data-name="Trazado 263274" d="M110.836,398.4c158.82,0,287.568-128.749,287.568-287.568H110.836Z" transform="translate(211.597 211.599)" fill="#e0daeb"/>
+        <path id="Trazado_263275" data-name="Trazado 263275" d="M110.836,0V287.568H398.4C398.4,128.749,269.655,0,110.836,0" transform="translate(211.597)" fill="#deffff"/>
+      </g>
+      <path id="Trazado_263272-2" data-name="Trazado 263272" d="M0,110.836C0,260.108,121.009,381.117,270.281,381.117V110.836Z" transform="translate(514.317 5774.959)" fill="#abc4e7"/>
+      <path id="Trazado_263273-2" data-name="Trazado 263273" d="M270.281,0C121.009,0,0,121.009,0,270.281H270.281Z" transform="translate(514.317 5583)" fill="#e2d4ff"/>
+      <path id="Trazado_263274-2" data-name="Trazado 263274" d="M110.836,381.117c149.272,0,270.281-121.009,270.281-270.281H110.836Z" transform="translate(706.531 5774.959)" fill="#b6a8cf"/>
+      <path id="Trazado_263275-2" data-name="Trazado 263275" d="M110.836,0V270.281H381.117C381.117,121.009,260.108,0,110.836,0" transform="translate(706.531 5582.743)" fill="#b3ffff"/>
+      <rect id="Rectángulo_296481" data-name="Rectángulo 296481" width="540.562" height="540.562" transform="translate(530.702 5599.128)" fill="none"/>
+      <g id="Grupo_877583" data-name="Grupo 877583" transform="translate(756.058 5763.241)">
+        <g id="Grupo_877582" data-name="Grupo 877582" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Trazado_263278" data-name="Trazado 263278" d="M3.4,22.376a61,61,0,0,1,108.237,38.64h10.89l-16.7,23.968L89.136,61.016h10.888A49.422,49.422,0,0,0,7.244,37.341L0,26.939q1.593-2.36,3.4-4.563" transform="translate(0 0)" fill="#12263f"/>
+        </g>
+      </g>
+      <g id="Grupo_877584" data-name="Grupo 877584" transform="translate(724.063 5890.594)">
+        <g id="Grupo_877582-2" data-name="Grupo 877582" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Trazado_263278-2" data-name="Trazado 263278" d="M119.127,62.608A61,61,0,0,1,10.891,23.968H0L16.7,0,33.388,23.968H22.5a49.422,49.422,0,0,0,92.78,23.674l7.244,10.4q-1.593,2.36-3.4,4.563" transform="translate(0 0)" fill="#12263f"/>
+        </g>
+      </g>
+      <text id="Hacer" transform="translate(934 5735.741)" fill="#12263f" font-size="35" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-46.835" y="33">Hacer</tspan></text>
+      <text id="Planificar" transform="translate(636 5735.741)" fill="#12263f" font-size="35" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-76.306" y="33">Planificar</tspan></text>
+      <text id="Actuar" transform="translate(667 5987.646)" fill="#12263f" font-size="35" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-52.808" y="33">Actuar</tspan></text>
+    </g>
+    <rect id="Bg" width="233" height="80" rx="10" transform="translate(390 4556.592)" fill="#fff"/>
+    <rect id="Bg-2" data-name="Bg" width="233" height="80" rx="10" transform="translate(390 4556.592)" fill="#e2d4ff"/>
+    <text id="Establecer_objetivos_y_o_procesos_a_mejorar." data-name="Establecer objetivos y/o procesos a mejorar." transform="translate(406.291 4574.592)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Establecer objetivos y/o </tspan><tspan x="0" y="39">procesos a mejorar.</tspan></text>
+    <rect id="Bg-3" data-name="Bg" width="230" height="80" rx="10" transform="translate(977 4556.591)" fill="#fff"/>
+    <rect id="Bg-4" data-name="Bg" width="230" height="80" rx="10" transform="translate(977 4557)" fill="#b3ffff"/>
+    <text id="Implementar_procedimientos_de_mejora." data-name="Implementar procedimientos de mejora." transform="translate(994 4575)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Implementar </tspan><tspan x="0" y="39">procedimientos de mejora.</tspan></text>
+    <rect id="Bg-5" data-name="Bg" width="201" height="80" rx="10" transform="translate(390 4888.591)" fill="#abc4e7"/>
+    <text id="Implantación_en_el_desempeño_del_SG." data-name="Implantación en el desempeño del SG." transform="translate(410 4906.091)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Implantación en el </tspan><tspan x="0" y="39">desempeño del SG.</tspan></text>
+    <rect id="Bg-6" data-name="Bg" width="230" height="80" rx="10" transform="translate(979 4889)" fill="#b6a8cf"/>
+    <text id="Analizar_con_objetivos_iniciales_y_medir_éxitos." data-name="Analizar con objetivos iniciales y medir éxitos." transform="translate(1021 4906)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Analizar con objetivos </tspan><tspan x="0" y="39">iniciales y medir éxitos.</tspan></text>
+    <text id="Verificar" transform="translate(908 4905.237)" fill="#12263f" font-size="35" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-68.291" y="33">Verificar</tspan></text>
+  </g>
+</svg>
