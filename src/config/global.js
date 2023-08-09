@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Características de los sistemas de gestión de la energía',
+      'Características de los sistemas de gestión de energía',
     descripcionCurso:
       'La gestión de la energía es una de las herramientas impulsadas por los gobiernos y las organizaciones a nivel mundial para solucionar los desafíos que plantean la seguridad energética, el cambio climático y la competitividad. La sostenibilidad económica y ambiental de las empresas y organizaciones es uno de los beneficios de la implementación de los sistemas de gestión de la energía (SGEn).',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),

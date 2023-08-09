@@ -105,8 +105,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h5.mb-1 Sistemas de Gestión de la Energía (SGEn)
-                  p.mb-0.text-small En el siguiente video se muestra algunos de los impactos y beneficios de los Sistemas de Gestión de la Energía (SGEn) de acuerdo con Bureau Veritas Argentina
+                  h5.mb-1 ISO 50001 - Sistema de Gestión de Eficiencia Energética
+                  p.mb-0.text-small En el siguiente video se muestra algunos de los impactos y beneficios de los Sistemas de Gestión de la Energía (SGEn) de acuerdo con Bureau Veritas Argentina.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hmxEKsQg0OI" target="_blank")
                     span Ver video

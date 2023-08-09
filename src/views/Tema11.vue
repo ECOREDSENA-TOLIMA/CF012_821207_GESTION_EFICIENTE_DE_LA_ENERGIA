@@ -74,7 +74,7 @@
       .col-md-11.col-lg-9.col-12(data-aos="fade-down")
         figure
           img(src='@/assets/curso/temas/tema11/tema11-01.png', alt='')
-          figcaption Nota. Tomada de CONUEE. (2016). #[i Manual para la implementación de un sistema de gestión de la energía.] Segunda edición, p. 31. https://www.gob.mx/cms/uploads/attachment/file/119159/Manual_SGEn_Conuee_2da_Edicion.compressed.pdf
+          figcaption Nota. Tomada de CONUEE. (2016). #[i Manual para la implementación de un sistema de gestión de la energía.] Segunda edición, p. 31. #[a(href="https://www.gob.mx/cms/uploads/attachment/file/119159/Manual_SGEn_Conuee_2da_Edicion.compressed.pdf" style="color:blue" target="_blank") https://www.gob.mx/cms/uploads/attachment/file/119159/Manual_SGEn_Conuee_2da_Edicion.compressed.pdf]
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       div.mt-2.col-12.d-flex.align-items-center.mb-4.mt-3.position-relative(style="z-index:1000 !important" data-aos="fade-right")    
@@ -87,7 +87,7 @@
       .col-md-11.col-lg-9.col-12(data-aos="fade-down")
         figure
           img(src='@/assets/curso/temas/tema11/tema11-02.png', alt='')
-          figcaption Nota. Tomada de Agencia de Sostenibilidad Energética. (2018). #[i Guía implementación de sistemas de gestión de la energía basados en ISO 50001.] Cuarta edición, p. 28. https://drive.google.com/file/d/1OBbFU1XgjCcUt4r8gt79EVubc-oLsHAY/view
+          figcaption Nota. Tomada de Agencia de Sostenibilidad Energética. (2018). #[i Guía implementación de sistemas de gestión de la energía basados en ISO 50001.] Cuarta edición, p. 28. #[a(style="color:blue" href="https://drive.google.com/file/d/1OBbFU1XgjCcUt4r8gt79EVubc-oLsHAY/view" target="_blank") https://drive.google.com/file/d/1OBbFU1XgjCcUt4r8gt79EVubc-oLsHAY/view]
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       div.mt-2.col-12.d-flex.align-items-center.mb-4.mt-3.position-relative(style="z-index:1000 !important" data-aos="fade-right")    
@@ -100,7 +100,7 @@
       .col-md-11.col-lg-9.col-12(data-aos="fade-down")
         figure
           img(src='@/assets/curso/temas/tema11/tema11-03.png', alt='')
-          figcaption Nota. Tomada de Red Colombiana de Conocimiento en Eficiencia Energética - RECIEE. (2019). #[i Implementación de un sistema de gestión de la energía - Guía con base en la Norma ISO 50001:2018.] Segunda edición, p. 23. https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
+          figcaption Nota. Tomada de Red Colombiana de Conocimiento en Eficiencia Energética - RECIEE. (2019). #[i Implementación de un sistema de gestión de la energía - Guía con base en la Norma ISO 50001:2018.] Segunda edición, p. 23. #[a(style="color:blue" href="https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf" target="_blank") https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf]
 
 
 </template>

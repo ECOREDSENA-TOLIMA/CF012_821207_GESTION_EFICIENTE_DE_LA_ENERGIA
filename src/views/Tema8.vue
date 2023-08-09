@@ -97,11 +97,6 @@
                 td Ley 1955 de 2019. Artículo 292. Realización de auditorías energéticas en edificios de administraciones públicas.
                 td Sí. A través de la implementación del SGEn se llevará a cabo la revisión energética equivalente a la auditoría energética. 
               tr
-                td.text-center 
-                td.text-center 
-                td 
-                td 
-              tr
                 td.text-center Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA)
                 td.text-center Externa
                 td Comunicado No. 400-2435-17. Requisitos a tener en cuenta en los expendios de carne y productos cárnicos comestibles.

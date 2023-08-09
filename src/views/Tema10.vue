@@ -9,11 +9,11 @@
       
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-md-9.col-12(data-aos="fade-down")
-        p En la planificación del sistema de gestión de la energía (SGEn) se debe reconocer las necesidades y expectativas de las partes interesadas y posteriormente, identificar los requisitos legales y otros requisitos que tienen relación con el SGEn y el desempeño energético de la organización. 
+        p Para garantizar el cumplimiento de los objetivos, las metas definidas y la mejora continua del desempeño energético mediante la implementación del SGEn en la organización es indispensable el compromiso de la alta dirección, que corresponde a los niveles gerenciales donde se toman las principales decisiones estratégicas y operativas de la organización.
       .col-md-3.col-12(data-aos="fade-up")
         img.mb-0.position-relative(src="@/assets/curso/temas/tema10/tema10-01.svg")
       .col-12.mt-4(data-aos="fade-left")
-        p ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
+        p.text-center #[b ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?]
 
     .tarjeta.tarjeta--azul.p-4.mb-5(data-aos="fade-down")
       SlyderA(tipo="b")
@@ -28,7 +28,7 @@
               
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
+            //h4 ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
             p  Para que este tipo de medidas puedan ser ejecutadas se requiere la aprobación y obtención por parte de la alta dirección de los recursos económicos, de planta física y personal para tal fin.
           .col-md-6
             figure
@@ -36,7 +36,7 @@
               
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
+            //h4 ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
             p Otras de las medidas para la mejora del desempeño energético implican el cambio de los hábitos de las personas al interior de la organización, lo cual puede ocasionar en algunos trabajadores una barrera debido al cambio cultural. 
           .col-md-6
             figure
@@ -44,7 +44,7 @@
         
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
+            //h4 ¿Por qué es tan importante el liderazgo y el compromiso de la alta dirección?
             p En estos casos, la motivación y el apoyo por parte de la alta dirección es de vital importancia para que estos procesos de cambio se realicen de la mejor manera.
           .col-md-6
             figure
@@ -69,7 +69,7 @@
         
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Los compromisos de la alta dirección frente al SGEn son los siguientes:
+            //h4 Los compromisos de la alta dirección frente al SGEn son los siguientes:
             ul.lista-ul.mb-2
               li
                 i.fas.fa-angle-right 
@@ -86,7 +86,7 @@
         
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Los compromisos de la alta dirección frente al SGEn son los siguientes:
+            //h4 Los compromisos de la alta dirección frente al SGEn son los siguientes:
             ul.lista-ul.mb-2
               li
                 i.fas.fa-angle-right 

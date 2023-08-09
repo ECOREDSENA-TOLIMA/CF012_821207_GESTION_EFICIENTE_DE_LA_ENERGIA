@@ -112,7 +112,7 @@
             .col-md-3.col-12.p-2.cuadro-1
               p.m-0.p-0.text-center #[strong ¿Sabía qué?]
             .col-md-9.col-12.p-2
-              p.text-small.m-3 Es importante tener en cuenta que la aplicación de la norma es voluntaria, excepto si se establece como un requisito por parte de los entes de regulación del Estado o alguna empresa en particular.
+              p.text-small.m-3 La norma es la guía para determinar los requisitos y establecer los procedimientos orientados a la implementación de un sistema de gestión.
       .col-12.mt-4.mb-4
         p(data-aos="fade-down") A grandes rasgos, actualmente existen cuatro clasificaciones principales para los sistemas de gestión de acuerdo con la ISO, ver tabla.
 
@@ -146,7 +146,7 @@
         figure
           img(src="@/assets/curso/temas/tema1/tema1-08.png", alt="alt")
       .col-lg-6(data-aos="fade-up")
-        p A pesar de que cada norma trata temas diferentes, tienen en común el uso de la metodología denominada Ciclo PHVA o Ciclo de Deming. Esta metodología fue creada originalmente por el profesor estadounidense Edwards Deming en los años 50 y está orientada a la mejora continua de los procesos y los procedimientos para garantizar la calidad de los productos y servicios. A través de los años esta metodología ha sido utilizada y cada vez más perfeccionada, de tal forma que se mantiene vigente.
+        p A pesar de que cada norma trata temas diferentes, tienen en común el uso de la metodología denominada Ciclo PHVA o Ciclo de #[i Deming]. Esta metodología fue creada originalmente por el profesor estadounidense Edwards Deming en los años 50 y está orientada a la mejora continua de los procesos y los procedimientos para garantizar la calidad de los productos y servicios. A través de los años esta metodología ha sido utilizada y cada vez más perfeccionada, de tal forma que se mantiene vigente.
         .crd.clr-paleYellow.p-4.mb-4
           p.mb-0 El Ciclo PHVA establece cuatro fases fundamentales, ordenadas y obligatorias para garantizar el correcto establecimiento de los procedimientos y de las acciones para cumplir con las metas y objetivos planteados por la organización, de forma efectiva y eficiente.
 
@@ -159,7 +159,7 @@
       .col-md-8.col-12
         figure
           img(src="@/assets/curso/temas/tema1/tema1-09.svg", alt="Nota. Tomada de ISBL (s.f.).")
-          figcaption Nota. Tomada de ISBL (s.f.). #[i https://isbl.eu/2021/01/que-es-un-sistema-de-gestion-y-para-que-sirve/]
+          figcaption Nota. Tomada de ISBL (s.f.). #[a(href="https://isbl.eu/2021/01/que-es-un-sistema-de-gestion-y-para-que-sirve/" target="_blank") #[b(style="color:blue") https://isbl.eu/2021/01/que-es-un-sistema-de-gestion-y-para-que-sirve/]]
 
       .col-12.mt-5
         p Como se puede observar en la figura al tratarse de un ciclo, este se repite de forma sucesiva, de tal forma que se puedan realizar ajustes en cada una de las fases hasta garantizar que los procedimientos y las acciones establecidas por la organización cumplan con las necesidades de los clientes y las demás personas interesadas. Si en algún momento cambian las condiciones de la organización o de los clientes, el sistema de gestión se puede adaptar para garantizar la mejora continua.
@@ -272,7 +272,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.mb-5(data-aos="fade-right")
       .col-12
-        p A continuación se mencionan algunas Normas ISO y las certificaciones más comunes a las que puede optar una organización:
+        p A continuación, se mencionan algunas Normas ISO y las certificaciones más comunes a las que puede optar una organización:
     
     .tarjeta-numerada.color-acento-botones.mt-4(data-aos="fade-down")
       .tarjeta-numerada__numero

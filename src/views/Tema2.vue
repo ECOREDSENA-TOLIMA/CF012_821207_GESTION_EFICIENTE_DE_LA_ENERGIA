@@ -56,7 +56,7 @@
           img(src='@/assets/curso/temas/tema2/tema2-02.png', alt='Los paradigmas del modelo energético')
       .col-md-6.col-12(data-aos="fade-up")
         p Los ejemplos de las crisis energéticas mostrados anteriormente ilustran los impactos que pueden derivarse de una inadecuada gestión de la política energética por parte de los gobiernos. Esta misma situación aplica a las empresas y las organizaciones, las cuales requieren dar una solución óptima a sus necesidades energéticas. 
-        p A continuación se muestra lo que indica el plan energético nacional como estrategia nacional, y posteriormente se presenta lo que están haciendo las empresas y las organizaciones frente a los tres paradigmas del modelo energético.
+        p A continuación, se muestra lo que indica el plan energético nacional como estrategia nacional, y posteriormente se presenta lo que están haciendo las empresas y las organizaciones frente a los tres paradigmas del modelo energético.
 
     Separador
     #t_2_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -71,32 +71,32 @@
 
     .tarjeta.tarjeta--azul.p-4.mt-5(data-aos="fade-left")
       PasosB.color-primario
-        .row(titulo="Pilar 1")
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center(titulo="Pilar 1")
+          .col-md-5.col-10.mb-4.mb-md-0
             h3 Pilar 1
             p Seguridad y confiabilidad en el abastecimiento. Relaciona las acciones del gobierno que permitan al sistema energético nacional (en todas las cadenas de los energéticos) satisfacer la demanda de energía de manera segura, confiable y eficiente. 
-          .col-md-6
+          .col-md-5.col-10
             figure
               img(src='@/assets/curso/temas/tema2/tema2-04.png', alt='Pilar 1')
-        .row(titulo="Pilar 2")
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center(titulo="Pilar 2")
+          .col-md-5.col-10.mb-4.mb-md-0
             h3 Pilar 2
             p Mitigación y adaptación al cambio climático. Relaciona las acciones del gobierno encaminadas a que el sistema energético nacional contribuya a la mitigación de los efectos del cambio climático, a través de la reducción de emisiones de gases de efecto invernadero (GEI) y se adapte a las condiciones y variaciones del clima. 
-          .col-md-6
+          .col-md-5.col-10
             figure
               img(src='@/assets/curso/temas/tema2/tema2-05.png', alt='Pilar 2')
-        .row(titulo="Pilar 3")
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center(titulo="Pilar 3")
+          .col-md-5.col-10.mb-4.mb-md-0
             h3 Pilar 3
             p Competitividad y desarrollo económico. Relaciona las acciones del gobierno encaminadas al uso eficiente de los recursos energéticos, a través de la creación de un entorno de mercado que permita la implementación de las diferentes opciones tecnológicas, con el fin de aumentar la competitividad de los sectores productivos y fortalecer el desarrollo económico del país.
-          .col-md-6
+          .col-md-5.col-10
             figure
               img(src='@/assets/curso/temas/tema2/tema2-06.png', alt='Pilar 3')
-        .row(titulo="Pilar 4")
-          .col-md-6.mb-4.mb-md-0
+        .row.align-items-center(titulo="Pilar 4")
+          .col-md-5.col-10.mb-4.mb-md-0
             h3 Pilar 4
             p Conocimiento e innovación. Relaciona las acciones del gobierno encaminadas al fortalecimiento de las competencias del capital humano en temas de transición energética, incremento de grupos y proyectos de investigación, y estrategias de innovación, desarrollo e investigación (I+D+I).
-          .col-md-6
+          .col-md-5.col-10
             figure
               img(src='@/assets/curso/temas/tema2/tema2-07.png', alt='Pilar 4')
 
