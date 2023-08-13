@@ -89,7 +89,7 @@
       .col-md-11.col-lg-10.col-12(data-aos="fade-down")
         figure
           img(src='@/assets/curso/temas/tema12/tema12-08.png', alt='')
-          figcaption Nota. Tomado de Red Colombiana de Conocimiento en Eficiencia Energética - RECIEE. (2019). #[i Implementación de un sistema de gestión de la energía - Guía con base en la Norma ISO 50001:2018.] Segunda versión, p. 26. https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
+          figcaption Nota. Tomado de Red Colombiana de Conocimiento en Eficiencia Energética - RECIEE. (2019). #[i Implementación de un sistema de gestión de la energía - Guía con base en la Norma ISO 50001:2018.] Segunda versión, p. 26. #[a(href="https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf" style="color:blue" target="_blank") https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf]
 
 </template>
 
