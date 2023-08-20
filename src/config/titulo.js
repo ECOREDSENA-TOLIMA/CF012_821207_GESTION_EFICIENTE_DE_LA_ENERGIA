@@ -1,1 +1,1 @@
-module.exports = 'Características de los sistemas de gestión de energía'
+module.exports = 'Características de los sistemas de gestión de la energía'

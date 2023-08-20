@@ -10,8 +10,8 @@
             img(src="@/assets/template/emparejamiento.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Características de los sistemas de gestión de energía
-        p.mb-4 #[b Objetivo.] Identificar las características de los sistemas de gestión de energía como una de las herramientas impulsadas por los gobiernos y organizaciones a nivel mundial para solucionar los desafíos que plantea la seguridad energética.
+          h2 Características de los sistemas de gestión de la energía
+        p.mb-4 #[b Objetivo.] Identificar las características de los sistemas de gestión de la energía como una de las herramientas impulsadas por los gobiernos y organizaciones a nivel mundial para solucionar los desafíos que plantea la seguridad energética.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
