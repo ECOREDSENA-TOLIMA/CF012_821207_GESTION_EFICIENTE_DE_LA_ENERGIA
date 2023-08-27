@@ -188,8 +188,9 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            .h4 Certificación 
-            p La certificación de sistemas de gestión es una declaración por una tercera parte de que un sistema de gestión de una organización cumple con los requisitos establecidos en una norma de referencia. 
+            .h4 CSG 
+            p La Certificación de Sistemas de Gestión CSG, es una declaración realizada por parte de un tercero, de que un sistema de gestión de una organización cumple con los requisitos establecidos en una norma de referencia.
+              //- La certificación de sistemas de gestión es una declaración por una tercera parte de que un sistema de gestión de una organización cumple con los requisitos establecidos en una norma de referencia. 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-18.png', alt='')
